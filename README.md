@@ -33,5 +33,5 @@ This project is a small interactive UI challenge built with React (without Canva
 ## 🛠️ Tech Notes
 
 - Built with React and plain HTML/CSS (or Tailwind).
-- No external libraries (other than what comes with the starter).
+- No external npm libraries were used.
 - No Canvas or SVG – everything is rendered using regular DOM elements.
